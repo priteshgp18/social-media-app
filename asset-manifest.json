@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/XavierBolte/social-media-app/static/css/main.b62ea404.css",
+    "main.js": "/XavierBolte/social-media-app/static/js/main.06d9d64f.js",
+    "index.html": "/XavierBolte/social-media-app/index.html",
+    "main.b62ea404.css.map": "/XavierBolte/social-media-app/static/css/main.b62ea404.css.map",
+    "main.06d9d64f.js.map": "/XavierBolte/social-media-app/static/js/main.06d9d64f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b62ea404.css",
+    "static/js/main.06d9d64f.js"
+  ]
+}
